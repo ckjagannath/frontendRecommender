@@ -1,0 +1,8 @@
+.dropdown-menu button{
+    line-height: 10px;
+    font-size: 15px;
+    background-color: blueviolet;
+    color: white;
+    border: white 1px solid;
+    margin-top: 2px;
+}

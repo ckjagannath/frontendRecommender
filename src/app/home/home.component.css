@@ -1,0 +1,21 @@
+.background{
+    background-color: #252525;
+    min-height: 100vh;
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: -7px;
+}
+#search{
+    padding: 8px;
+    color: white;
+    height: 35px;
+    width: 250px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+
+
+

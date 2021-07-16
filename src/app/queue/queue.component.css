@@ -1,0 +1,17 @@
+.scrollright{
+    white-space: nowrap;
+    overflow: auto;
+}
+#queue-button{
+    color:white;
+    font-weight: 500;
+    background-color: red;
+    border: white 1px solid;
+    border-radius: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
